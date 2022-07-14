@@ -1,3 +1,1 @@
-var f = 1;
-var a = 23;
-var c = f + a;
+let test = prompt("Test", ''); // <-- для IE
